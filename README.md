@@ -5,7 +5,7 @@ Go arrow menu.
 Install:
 
 ```txt
-go install github.com/glaukiol1/go-arrow-menu
+go get github.com/glaukiol1/go-arrow-menu
 ```
 
 In-code usage:
